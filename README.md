@@ -31,7 +31,6 @@ app
     │
     └───types
     │   │   azure-storage.d.ts
-    
 
 * Project specific files
 
